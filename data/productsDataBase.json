@@ -1,0 +1,165 @@
+[
+    {
+        "id": 1,
+        "marca":  " Ford ",
+        "modelo":"Fiesta",
+        "precio":150000,
+        "km": 200,
+        "color":"Azul", 
+        "cuotas":12, 
+        "anio":2019,  
+        "patente":"APL123 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla.jpg"]
+    },
+    {
+        "id": 2,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla1.jpg"]
+    },
+    {
+        "id": 3,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla2.jpg"]
+
+    },
+    {
+        "id": 4,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla3.jpg"]
+    },
+    {
+        "id": 5,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla10.jpg"]
+    },
+    {
+        "id": 6,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla5.jpg"]
+    },
+    {
+        "id": 7,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla7.jpg"]
+    },
+    {
+        "id": 8,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla8.jpg"]
+
+    },
+    {
+        "id": 9,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla9.jpg"]
+
+    },
+    {
+        "id": 10,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla10.jpg"]
+
+    },
+    {
+        "id": 11,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla11.jpg"]
+
+    },
+    {
+        "id": 12,
+        "marca":  " Toyota ",
+        "modelo":"Corolla",
+        "precio":100000,
+        "km": 0,
+        "color":"Blanco", 
+        "cuotas":14, 
+        "anio":2019,  
+        "patente":"JJK116 ", 
+        "vendido": "no está vendido",
+        "image":["toyotacorolla12.jpg"]
+
+    }
+
+]
