@@ -1,164 +1,189 @@
 [
     {
         "id": 1,
-        "marca":  " Ford ",
+        "name":  " Ford ",
         "modelo":"Fiesta",
-        "precio":150000,
+        "price":150000,
         "km": 200,
         "color":"Azul", 
         "cuotas":12, 
         "anio":2019,  
         "patente":"APL123 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla.jpg"]
+        "discount":39,
+        "image":["toyotacorolla.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
+
     },
     {
         "id": 2,
-        "marca":  " Toyota ",
+        "name":  " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":150000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla1.jpg"]
+        "discount":21,
+        "image":["toyotacorolla1.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
     },
     {
         "id": 3,
-        "marca":  " Toyota ",
+        "name":  " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla2.jpg"]
+        "discount":9,
+        "image":["toyotacorolla2.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
 
     },
     {
         "id": 4,
-        "marca":  " Toyota ",
+        "name":  " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla3.jpg"]
+        "discount":12,
+        "image":["toyotacorolla3.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
     },
     {
         "id": 5,
-        "marca":  " Toyota ",
+        "name":  " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla10.jpg"]
+        "discount":10,
+        "image":["toyotacorolla10.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
     },
     {
         "id": 6,
-        "marca":  " Toyota ",
+        "name":  " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla5.jpg"]
+        "discount":19,
+        "image":["toyotacorolla5.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
     },
     {
         "id": 7,
-        "marca":  " Toyota ",
+        "name": " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla7.jpg"]
+        "discount":23,
+        "image":["toyotacorolla7.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
     },
     {
         "id": 8,
         "marca":  " Toyota ",
-        "modelo":"Corolla",
-        "precio":100000,
+        "name":"Corolla",
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla8.jpg"]
+        "discount":18,
+        "image":["toyotacorolla8.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
 
     },
     {
         "id": 9,
         "marca":  " Toyota ",
-        "modelo":"Corolla",
-        "precio":100000,
+        "name":"Corolla",
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla9.jpg"]
+        "discount":25,
+        "image":["toyotacorolla9.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
 
     },
     {
         "id": 10,
-        "marca":  " Toyota ",
+        "name":  " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla10.jpg"]
+        "discount":14,
+        "image":["toyotacorolla10.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
 
     },
     {
         "id": 11,
-        "marca":  " Toyota ",
+        "name": " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla11.jpg"]
+        "discount":35,
+        "image":["toyotacorolla11.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
 
     },
     {
         "id": 12,
-        "marca":  " Toyota ",
+        "name": " Toyota ",
         "modelo":"Corolla",
-        "precio":100000,
+        "price":100000,
         "km": 0,
         "color":"Blanco", 
         "cuotas":14, 
         "anio":2019,  
         "patente":"JJK116 ", 
         "vendido": "no está vendido",
-        "image":["toyotacorolla12.jpg"]
+        "discount":40,
+        "image":["toyotacorolla12.jpg"],
+        "descripcion":"el mejor vehiculo para conducir"
 
     }
 

@@ -9,5 +9,13 @@ module.exports ={
           title: 'Comision 13' ,
           products,
         });
-      }
+      },
+      detail:function(req, res) {
+       let idProducto = +req.params.id;
+       let product = products.find(prod => prod.id == idProducto)
+       res.render('productDetail', {
+         title:product.name,
+         product
+       })
+        }
 }
